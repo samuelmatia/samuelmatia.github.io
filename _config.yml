@@ -5,7 +5,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint"
+site_theme               : "default"
 title                    : "Samuel MATIA KANGONI"
 title_separator          : "-"
 name                     : "Samuel MATIA KANGONI"
