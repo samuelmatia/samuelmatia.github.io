@@ -48,8 +48,8 @@ I’ve worked with institutions and startups across **India**, **France**, **Mor
 
 As **Zindi Africa's Country Ambassador (DRC)** and **co-lead of Google Developer Student Club (Unikin)**, I:
 
-- Organized **bootcamps**, **hackathons**, and **AI workshops** for 200+ students.
-- Led **cross-university projects** (e.g., *IngenieuxSud* with UC Louvain).
+- Organized **hackathons**, and **AI workshops** for 200+ students.
+- Participated **cross-university projects** (e.g., *IngenieuxSud* with UC Louvain).
 - Mentored aspiring AI engineers and facilitated global collaborations.
 
 ---
