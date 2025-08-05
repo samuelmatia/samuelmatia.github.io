@@ -36,11 +36,11 @@ My recent work includes:
 I’ve worked with institutions and startups across **India**, **France**, **Morocco**, and the **DRC** through internships and consulting roles:
 
 - ⚙️ **AI Engineer** at *CongoExcelTechnologies* – built RAG-based knowledge systems.
-- 🛒 **PathOr (India)** – deployed AI assistants for e-commerce & automation.
-- 🎧 **Mentorness** – created voice-enabled chatbots and LLM-based tools.
+- 🛒 **PathOr Platforms(India)** – deployed AI assistants for e-commerce & automation.
+- 🎧 **Mentorness(India)** – created voice-enabled chatbots and LLM-based tools.
 - 🤖 **Orange Summer Challenge** – co-developed *Utulivu*, an AI system for autism screening.
 - 🌍 **IA Flex Start (France)** – integrated LLMs with APIs in production pipelines.
-- 🌱 **Huawei Seeds for the Future** – led Tech4Good initiatives.
+- 🌱 **Huawei Seeds for the Future(Morocco)** – led Tech4Good initiatives.
 
 ---
 
