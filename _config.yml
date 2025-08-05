@@ -6,10 +6,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Samuel MATIA KANGONI"
+title                    : ""
 title_separator          : "-"
 name                     : "Samuel MATIA KANGONI"
-description              : "AI Engineer | Researcher | Computer Engineering Student"
+description              : ""
 url                      : https://samuelmatia.github.io
 baseurl                  : ""
 repository               : "samuelmatia/samuelmatia.github.io"
@@ -21,7 +21,7 @@ author:
   name             : "Samuel MATIA KANGONI"
   pronouns         :  
   bio              : "Computer Engineering student specializing in healthcare AI. My research focuses on NLP for medical record analysis, differentiable programming for model optimization, and interpretable AI systems for clinical decision support. Passionate about bridging advanced ML techniques with real-world medical applications."
-  location         : "Kinshasa, Democratic Republic of Congo"
+  location         : "Kinshasa, DR Congo"
   employer         : "University of Kinshasa"
   uri              : 
   email            : "samuel.matia@unikin.ac.cd"
