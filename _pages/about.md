@@ -8,58 +8,65 @@ redirect_from:
 ---
 
 
-I’m **Samuel Matia Kangoni**, a passionate AI researcher and engineer in the final year of a Bachelor’s degree in **Computer Engineering** at the **University of Kinshasa**. My current work and interests lie at the intersection of:
+Please feel free to reach out for **research collaborations**.
 
-- **Recommender Systems**
-- **Natural Language Processing**
-- **Differentiable Programming**
-- **Reinforcement Learning**
+I’m **Samuel Matia Kangoni**, a **Computer Engineering** bachelor final-year student at the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence. My research and engineering work span across:
 
+- 🌐 **Recommender Systems**
+- 🧠 **Natural Language Processing**
+- 🔁 **Reinforcement Learning**
+- ∂ **Differentiable Programming**
+- 🏥 **AI for Healthcare**
 
-My passion lies in **AI for healthcare**, particularly in **language models, intelligent tutoring systems**, and **assistive technologies**. I strive to build meaningful systems powered by AI, capable of tackling real-world challenges in education, health, and sustainability.
-
----
-
-## 🔬 Current Research
-
-My recent publications and research involve:
-
-- **LLM-enhanced sentiment-aware recommendation** systems for drug review platforms — published in *IEEE Access (2025)*.
-- A **book chapter on Machine Learning for Malware Analysis**, bridging AI and cybersecurity (Under review).
-
+I’m particularly driven by the potential of **AI in health, education, and accessibility**, with a focus on **LLMs**, **intelligent tutoring systems**, and **assistive technologies**.
 
 ---
 
-## 💼 Professional Experience
+## 🔬 Research Highlights
 
-I have collaborated with diverse institutions across **India, France, Morocco, and the DRC** through internships and consulting roles. Some recent highlights include:
+My recent work includes:
 
-- **AI Engineer at CongoExcelTechnologies**, building production-ready RAG-based applications.
-- **Internships at Huawei, Orange, PathOr, Mentorness**, where I developed AI systems for e-commerce, autism screening, and voice-based assistants.
-- **AI Consultant at IA Flex Start**, working on LLM integration with APIs and automation flows.
-
----
-
-## 🌍 Leadership & Community
-
-As a **Zindi Africa Country Ambassador (DRC)** and **GDSC co-lead (Kinshasa)**, I actively foster AI awareness, education, and innovation across communities. I’ve led:
-
-- Hackathons, bootcamps, and workshops for 200+ local students and professionals.
-- Cross-university and international collaborations (e.g., IngenieuxSud with UC Louvain).
+- **LLM-enhanced sentiment-aware recommender systems** for drug review platforms – published in *IEEE Access (2025)*.
+- A **book chapter on Machine Learning for Malware Analysis**, connecting AI with cybersecurity (under review).
 
 ---
 
-## 🏆 Awards & Recognition
+## 💼 Experience Snapshot
 
-- 🥇 **1st Prize**, Hackathon TechPoly 2024 – *Mat.IA*: a real-time, AI-powered tutor.
-- 🥈 **2nd Prize**, Orange Summer Challenge 2023 – *Utulivu*: AI for autism screening.
-- 🧠 Selected for competitive programs like **Huawei Seeds for the Future**, **Google GDSC Leadership**, and **multiple AI research internships**.
+I’ve worked with institutions and startups across **India**, **France**, **Morocco**, and the **DRC** through internships and consulting roles:
+
+- ⚙️ **AI Engineer** at *CongoExcelTechnologies* – built RAG-based knowledge systems.
+- 🛒 **PathOr (India)** – deployed AI assistants for e-commerce & automation.
+- 🎧 **Mentorness** – created voice-enabled chatbots and LLM-based tools.
+- 🤖 **Orange Summer Challenge** – co-developed *Utulivu*, an AI system for autism screening.
+- 🌍 **IA Flex Start (France)** – integrated LLMs with APIs in production pipelines.
+- 🌱 **Huawei Seeds for the Future** – led Tech4Good initiatives.
 
 ---
 
-## 📄 Full Academic CV
+## 🌍 Community & Leadership
 
-You can view or download my full academic CV [here](/files/SamuelMatia_CV.pdf).
+As **Zindi Africa's Country Ambassador (DRC)** and **co-lead of Google Developer Student Club (Unikin)**, I:
+
+- Organized **bootcamps**, **hackathons**, and **AI workshops** for 200+ students.
+- Led **cross-university projects** (e.g., *IngenieuxSud* with UC Louvain).
+- Mentored aspiring AI engineers and facilitated global collaborations.
 
 ---
+
+## 🏆 Awards & Distinctions
+
+- 🥇 **1st Prize**, *Hackathon TechPoly 2024* – **Mat.IA**: an AI-powered multilingual tutor.
+- 🥈 **2nd Prize**, *Orange Summer Challenge 2023* – **Utulivu**: AI for autism diagnosis.
+- 🎓 Selected for:
+  - *Huawei Seeds for the Future (2024)*
+  - *Google GDSC Leadership Program*
+  - *Multiple AI internships*
+
+---
+
+## 📄 Academic CV
+
+You can download my full academic CV [here](/files/CV/Resume_sam_matia.pdf).
+
 
