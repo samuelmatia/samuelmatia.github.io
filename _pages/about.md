@@ -9,8 +9,10 @@ redirect_from:
 
 I’m **Samuel Matia Kangoni**, a **Computer Engineering** bachelor final-year student at the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence. My research and engineering work span across:
 
-- **Recommender Systems**
 - **Natural Language Processing**
+- **Large Language Models**
+- **Automatic Speech Recognition**
+- **Recommender Systems**
 - **Differentiable Programming**
 - **Reinforcement Learning**
 - **AI for Healthcare**
