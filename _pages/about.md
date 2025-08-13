@@ -31,7 +31,7 @@ My recent work includes:
 
 - Book chapter **submitted for publication** in Mastering Malware Development and Analysis – **Machine Learning in Malware Analysis**.
 A Comprehensive Guide to Hybrid Malware Analysis and Virtual Sandboxing,
-Edited by Dr. Bishwajeet Pandey, Dr. Deepak Bhaskar Acharya, and Ms. Divya B., Apple Academic Press, 2025.
+Edited by Dr. Bishwajeet Pandey, Dr. Deepak Bhaskar Acharya, and Ms. Divya B., **Apple Academic Press, 2025**.
 
 ## 💼 Experience Snapshot
 
