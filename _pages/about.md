@@ -27,7 +27,7 @@ My recent work includes:
   [Paper](https://ieeexplore.ieee.org/document/11083619) | [Code Repository](https://github.com/samuelmatia/llm-sentiment-drug-recsys)  
 
   Developed a sentiment-driven drug recommender system leveraging **instruction-tuned LLMs** for feature engineering. Introduced the **Adaptive Confidence-Weighted Scoring (ACWS)** mechanism for dynamic weighting and outlier handling, and performed rigorous evaluation with standard RecSys metrics and expert clinical review.  
-  **Authors:** **Samuel Matia Kangoni**, Obed Tshimanga Tshipata, Pierre Sedi Nzakuna, Vincenzo Paciello, Jean Gilbert Mbula Mboma, Jean Robert Makulo, Kyandoghere Kyamakya  
+
 
 - Book chapter **submitted for publication** in Mastering Malware Development and Analysis – **Machine Learning in Malware Analysis**.
 A Comprehensive Guide to Hybrid Malware Analysis and Virtual Sandboxing,
