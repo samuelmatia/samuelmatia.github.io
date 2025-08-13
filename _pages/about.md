@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Samuel Matia Kangoni**, a **Computer Engineering** bachelor final-year student at the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence. My research and engineering work span across:
+I’m **Samuel Matia Kangoni**, a **Computer Engineering** bachelor final-year student at the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence. I’m particularly interested in **efficient, low-resource AI**, developing models that perform well even when computational resources are limited. My research and engineering work span across:
 
+- **AI for Healthcare**
 - **Natural Language Processing**
 - **Large Language Models**
 - **Automatic Speech Recognition**
 - **Recommender Systems**
 - **Differentiable Programming**
 - **Reinforcement Learning**
-- **AI for Healthcare**
-
-I’m particularly driven by the potential of **AI in health, education, and accessibility**, with a focus on **LLMs**, **intelligent tutoring systems**, and **assistive technologies**.
 
 ---
 
@@ -25,33 +23,52 @@ I’m particularly driven by the potential of **AI in health, education, and acc
 
 My recent work includes:
 
-- **Enhancing Sentiment-driven Recommender Systems with LLM-Based Feature Engineering: A Case Study in Drug review Analysis** – published in *IEEE Access (2025)*.
-- A **book chapter on Machine Learning for Malware Analysis**, connecting AI with cybersecurity (under review).
+- **Enhancing Sentiment-driven Recommender Systems with LLM-Based Feature Engineering: A Case Study in Drug Review Analysis** – *IEEE Access (2025)*.  
+  [Code Repository](https://github.com/samuelmatia/llm-sentiment-drug-recsys)  
 
----
+  Developed a sentiment-driven drug recommender system leveraging **instruction-tuned LLMs** for feature engineering. Introduced the **Adaptive Confidence-Weighted Scoring (ACWS)** mechanism for dynamic weighting and outlier handling, and performed rigorous evaluation with standard RecSys metrics and expert clinical review.  
+  **Authors:** **Samuel Matia Kangoni**, Obed Tshimanga Tshipata, Pierre Sedi Nzakuna, Vincenzo Paciello, Jean Gilbert Mbula Mboma, Jean Robert Makulo, Kyandoghere Kyamakya  
+
+- **Book chapter on Machine Learning for Malware Analysis** – connecting AI with cybersecurity (under review).
+
 
 ## 💼 Experience Snapshot
 
 I’ve worked with institutions and startups across **India**, **France**, **Morocco**, and the **DRC** through internships and consulting roles:
 
-- **AI Engineer at CongoExcelTechnologies** – built RAG-based knowledge systems.
-- **PathOr Platforms(India)** – deployed AI assistants for e-commerce & automation.
-- **Mentorness(India)** – created voice-enabled chatbots and LLM-based tools.
-- **Orange Summer Challenge** – co-developed *Utulivu*, an AI system for autism screening.
-- **IA Flex Start (France)** – integrated LLMs with APIs in production pipelines.
-- **Huawei Seeds for the Future(Morocco)** – led Tech4Good initiatives.
+- **AI Engineer – [CongoExcelTechnologies](https://www.linkedin.com/company/congo-excel-technologies/)**  
+  Built RAG-based knowledge systems to support AI-driven decision-making.
 
----
+- **AI Engineer – [PathOr Platforms (India)](https://www.pathor.in/)**  
+  Deployed AI agents for e-commerce and process automation.
+
+- **AI developer – [Orange Summer Challenge](https://engageforchange.orange.com/fr/programs/93821cf7-083b-4435-99fe-1b5c704e0683)**  
+  Developed *Utulivu*, an AI system for autism screening.
+
+- **AI Integration Intern – IA Flex Start (France)**  
+  Integrated LLMs with APIs in production pipelines to streamline workflows.
+
+- **Tech4Good Lead – [Huawei Seeds for the Future (Morocco)](https://www.huawei.com/minisite/seeds-for-the-future/index.html)**  
+  Led initiatives leveraging technology for social impact.
+
+
 
 ## 🌍 Community & Leadership
 
-As **Zindi Africa's Country Ambassador (DRC)** and **co-lead of Google Developer Student Club (Unikin)**, I:
+**Zindi Africa – Country Ambassador (DRC)** | *Oct 2024 – Sept 2025*  
+[LinkedIn](https://www.linkedin.com/company/zindi-drc-community/) | [WhatsApp](https://chat.whatsapp.com/GsGgM3q2lXW5xQshWGkIUK) | [GitHub](https://github.com/samuelmatia/Workshops-Zindi-DRC-2025)  
+Built and led a community of 200+ members to promote data science and AI, organized workshops, hackathons, and social-impact projects, and prepared future leaders to sustain Zindi’s presence.
 
-- Built and led a dynamic community of 200+ members to promote data science and AI in the DRC.
-- Participated to cross-university projects (e.g., *IngenieuxSud* with UC Louvain).
-- Mentored aspiring AI engineers and facilitated global collaborations.
+**University of Kinshasa – Project Coordinator & AI Lab Manager** | *Jul 2025 – Jul 2026*  
+Managed the Faculty’s AI lab and infrastructure, mentored student research initiatives, and fostered innovation in AI and computer science.
 
----
+**IngenieuxSud – Goat Feeding Challenge (FARRE Farm/Kinshasa Kimwenza)** | *Dec 2023 – Jul 2024*  
+[IngenieuxSud](https://www.uclouvain.be/fr/facultes/epl/ingenieuxsud)  
+Collaborated with UC Louvain students to evaluate silage feasibility, estimate herd nutrition needs, and test goats’ acceptance of different silage samples.
+
+**Google Developer Students Club – Co-lead, University of Kinshasa** | *Jul 2023 – Jul 2024*  
+Co-led the chapter, coordinated technical events and workshops, mentored students in AI and software development, and facilitated partnerships to grow community engagement.
+
 
 ## 🏆 Awards & Distinctions
 
