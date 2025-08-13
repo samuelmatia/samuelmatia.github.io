@@ -24,7 +24,7 @@ I’m **Samuel Matia Kangoni**, a **Computer Engineering** bachelor final-year s
 My recent work includes:
 
 - **Enhancing Sentiment-driven Recommender Systems with LLM-Based Feature Engineering: A Case Study in Drug Review Analysis** – *IEEE Access (2025)*.  
-  [Code Repository](https://github.com/samuelmatia/llm-sentiment-drug-recsys)  
+  [Paper](https://ieeexplore.ieee.org/document/11083619) | [Code Repository](https://github.com/samuelmatia/llm-sentiment-drug-recsys)  
 
   Developed a sentiment-driven drug recommender system leveraging **instruction-tuned LLMs** for feature engineering. Introduced the **Adaptive Confidence-Weighted Scoring (ACWS)** mechanism for dynamic weighting and outlier handling, and performed rigorous evaluation with standard RecSys metrics and expert clinical review.  
   **Authors:** **Samuel Matia Kangoni**, Obed Tshimanga Tshipata, Pierre Sedi Nzakuna, Vincenzo Paciello, Jean Gilbert Mbula Mboma, Jean Robert Makulo, Kyandoghere Kyamakya  
