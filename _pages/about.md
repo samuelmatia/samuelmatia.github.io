@@ -29,8 +29,9 @@ My recent work includes:
   Developed a sentiment-driven drug recommender system leveraging **instruction-tuned LLMs** for feature engineering. Introduced the **Adaptive Confidence-Weighted Scoring (ACWS)** mechanism for dynamic weighting and outlier handling, and performed rigorous evaluation with standard RecSys metrics and expert clinical review.  
   **Authors:** **Samuel Matia Kangoni**, Obed Tshimanga Tshipata, Pierre Sedi Nzakuna, Vincenzo Paciello, Jean Gilbert Mbula Mboma, Jean Robert Makulo, Kyandoghere Kyamakya  
 
-- **Book chapter on Machine Learning for Malware Analysis** – connecting AI with cybersecurity (under review).
-
+- Book chapter **submitted for publication** in Mastering Malware Development and Analysis – **Machine Learning in Malware Analysis**.
+A Comprehensive Guide to Hybrid Malware Analysis and Virtual Sandboxing,
+Edited by Dr. Bishwajeet Pandey, Dr. Deepak Bhaskar Acharya, and Ms. Divya B., Apple Academic Press, 2025.
 
 ## 💼 Experience Snapshot
 
@@ -55,18 +56,18 @@ I’ve worked with institutions and startups across **India**, **France**, **Mor
 
 ## 🌍 Community & Leadership
 
-**Zindi Africa – Country Ambassador (DRC)** | *Oct 2024 – Sept 2025*  
+- **Zindi Africa – Country Ambassador (DRC)** | *Oct 2024 – Sept 2025*  
 [LinkedIn](https://www.linkedin.com/company/zindi-drc-community/) | [WhatsApp](https://chat.whatsapp.com/GsGgM3q2lXW5xQshWGkIUK) | [GitHub](https://github.com/samuelmatia/Workshops-Zindi-DRC-2025)  
 Built and led a community of 200+ members to promote data science and AI, organized workshops, hackathons, and social-impact projects, and prepared future leaders to sustain Zindi’s presence.
 
-**University of Kinshasa – Project Coordinator & AI Lab Manager** | *Jul 2025 – Jul 2026*  
+- **University of Kinshasa – Project Coordinator & AI Lab Manager** | *Jul 2025 – Jul 2026*  
 Managed the Faculty’s AI lab and infrastructure, mentored student research initiatives, and fostered innovation in AI and computer science.
 
-**IngenieuxSud – Goat Feeding Challenge (FARRE Farm/Kinshasa Kimwenza)** | *Dec 2023 – Jul 2024*  
+- **IngenieuxSud – Goat Feeding Challenge (FARRE Farm/Kinshasa Kimwenza)** | *Dec 2023 – Jul 2024*  
 [IngenieuxSud](https://www.uclouvain.be/fr/facultes/epl/ingenieuxsud)  
 Collaborated with UC Louvain students to evaluate silage feasibility, estimate herd nutrition needs, and test goats’ acceptance of different silage samples.
 
-**Google Developer Students Club – Co-lead, University of Kinshasa** | *Jul 2023 – Jul 2024*  
+- **Google Developer Students Club – Co-lead, University of Kinshasa** | *Jul 2023 – Jul 2024*  
 Co-led the chapter, coordinated technical events and workshops, mentored students in AI and software development, and facilitated partnerships to grow community engagement.
 
 
