@@ -17,7 +17,7 @@ repository               : "samuelmatia/samuelmatia.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Samuel MATIA KANGONI"
   pronouns         :  
   bio              : "Computer Engineering student focused on healthcare AI. I work on on NLP, Computer Vision, differentiable programming for model optimization, and interpretable AI systems. Passionate about bridging advanced ML techniques with real-world medical applications. You can download my full academic CV <a href='/files/CV/Resume_sam_matia.pdf' target='_blank'>here</a>."
