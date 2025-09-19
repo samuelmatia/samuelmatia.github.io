@@ -14,7 +14,6 @@ I’m **Samuel Matia Kangoni**, a **Computer Engineering** bachelor final-year s
 - **Large Language Models**
 - **Automatic Speech Recognition**
 - **Recommender Systems**
-- **Differentiable Programming**
 - **Reinforcement Learning**
 
 ---
@@ -36,6 +35,9 @@ Edited by Dr. Bishwajeet Pandey, Dr. Deepak Bhaskar Acharya, and Ms. Divya B., *
 ## 💼 Experience Snapshot
 
 I’ve worked with institutions and startups across **India**, **France**, **Morocco**, and the **DRC** through internships and consulting roles:
+
+- **AI Trainer – [EazyTraining/EAZYCONSULTING](https://eazytraining.fr/)**  
+  Designed and delivered practical online courses on AI and Data Science, creating tailored materials and guiding learners through hands-on projects, coding sessions, and real-world model deployment workflows.
 
 - **AI Engineer – [CongoExcelTechnologies](https://www.linkedin.com/company/congo-excel-technologies/)**  
   Built RAG-based knowledge systems to support AI-driven decision-making.
