@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Samuel Matia Kangoni**, a **Computer Engineering** bachelor final-year student at the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence. My research and engineering work span across:
+I’m **Samuel Matia Kangoni**, a Computer Engineering graduate from the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence. My research and engineering work span across:
+
 
 - **AI for Healthcare**
 - **Natural Language Processing**
