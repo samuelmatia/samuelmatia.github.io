@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Samuel Matia Kangoni**, a **Computer Engineering** bachelor final-year student at the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence. I’m particularly interested in **efficient, low-resource AI**, developing models that perform well even when computational resources are limited. My research and engineering work span across:
+I’m **Samuel Matia Kangoni**, a **Computer Engineering** bachelor final-year student at the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence. My research and engineering work span across:
 
 - **AI for Healthcare**
 - **Natural Language Processing**
 - **Large Language Models**
-- **Automatic Speech Recognition**
+- **Graph Neural Networks**
 - **Recommender Systems**
 - **Reinforcement Learning**
 
@@ -22,15 +22,30 @@ I’m **Samuel Matia Kangoni**, a **Computer Engineering** bachelor final-year s
 
 My recent work includes:
 
-- **Enhancing Sentiment-driven Recommender Systems with LLM-Based Feature Engineering: A Case Study in Drug Review Analysis** – *IEEE Access (2025)*.  
-  [Paper](https://ieeexplore.ieee.org/document/11083619) | [Code Repository](https://github.com/samuelmatia/llm-sentiment-drug-recsys)  
+- **Enhancing Sentiment-driven Recommender Systems with LLM-Based Feature Engineering: A Case Study in Drug Review Analysis** – *IEEE Access (2025)*  
+  [Paper](https://ieeexplore.ieee.org/document/11083619) • [Code](https://github.com/samuelmatia/llm-sentiment-drug-recsys)  
+  Developed a sentiment-driven drug recommender system leveraging **instruction-tuned LLMs** for feature engineering. Introduced the **Adaptive Confidence-Weighted Scoring (ACWS)** mechanism for dynamic weighting and robust outlier handling. Conducted extensive evaluation using standard RecSys metrics and **expert clinical validation**, demonstrating improved interpretability and recommendation quality.
 
-  Developed a sentiment-driven drug recommender system leveraging **instruction-tuned LLMs** for feature engineering. Introduced the **Adaptive Confidence-Weighted Scoring (ACWS)** mechanism for dynamic weighting and outlier handling, and performed rigorous evaluation with standard RecSys metrics and expert clinical review.  
+- **Structural Preservation in Efficient Pharmacovigilance Summarization: A Causal Graph-Based Evaluation Framework** – *IEEE AFRICON 2025*  
+  Proposed a causal-graph-oriented evaluation methodology for pharmacovigilance summarization systems. Demonstrated how structural preservation metrics improve safety-critical summarization pipelines in real-world drug surveillance.
 
+- **Large Language Models in Healthcare: Opportunities, Challenges, and Pathways Toward Trustworthy Clinical AI** – *AUTSYS-2025 (Springer LNCS)*  
+  Co-authored a comprehensive study on the role of LLMs as **clinical cognitive infrastructure**, covering clinical decision support, multimodal integration, regulatory compliance, and trustworthy reasoning. Accepted for publication in the *17th International Conference on Autonomous Systems*.
 
-- Book chapter **submitted for publication** in Mastering Malware Development and Analysis – **Machine Learning in Malware Analysis**.
-A Comprehensive Guide to Hybrid Malware Analysis and Virtual Sandboxing,
-Edited by Dr. Bishwajeet Pandey, Dr. Deepak Bhaskar Acharya, and Ms. Divya B., **Apple Academic Press, 2025**.
+- **Machine Learning in Malware Analysis** – *Book Chapter, Apple Academic Press (2026)*  
+  Author of Chapter 7 in *Mastering Malware Development and Analysis: A Comprehensive Guide to Hybrid Malware Analysis and Virtual Sandboxing*.  
+  Provides a practical and in-depth treatment of ML-based malware analysis, hybrid static/dynamic pipelines, and virtual sandboxing strategies for modern threat landscapes.  
+  [Publisher page](https://www.appleacademicpress.com/mastering-malware-development-and-analysis-a-comprehensive-guide-to-hybrid-malware-analysis-and-virtual-sandboxin/9781779646224)
+
+---
+
+## 🧪 Research Experience
+
+### **Research Mentee – BASIRA Lab (Graph Neural Networks for Rising Stars)**  
+**Imperial College London — Supervisor: Dr. Islem Rekik**  
+*Oct 2025 – Present*  
+Selected for a competitive international research mentorship program. Working on **GNN architecture design**, **explainability**, and **reproducible ML**, with a publication-oriented project focused on representation learning for real-world biomedical and networked data. Collaborating with a global cohort under the BASIRA Lab’s rigorous scientific framework.
+
 
 ## 💼 Experience Snapshot
 
