@@ -9,7 +9,6 @@ redirect_from:
 
 I'm **Samuel Matia Kangoni**, a Computer Engineering graduate from the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence.
 
-**22 years old — from Democratic Republic of the Congo**
 
 ---
 
