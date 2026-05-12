@@ -17,12 +17,12 @@ I'm **Samuel Matia Kangoni**, a Computer Engineering graduate from the **Univers
 Transitioning toward **AI security and computer vision**. Interested in **machine unlearning**, **deepfakes**, and **AI agentic security**. Passionate about building robust, safe, and trustworthy AI for real-world applications.
 
 Previously worked on:
-- AI for Healthcare
-- Natural Language Processing
-- Large Language Models
 - Graph Neural Networks
 - Recommender Systems
-- Reinforcement Learning
+- AI for Healthcare
+- Natural Language Processing
+
+
 
 
 ## 📄 Publications
