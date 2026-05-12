@@ -6,9 +6,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Samuel MATIA KANGONI"
+title                    : "Samuel KANGONI MATIA"
 title_separator          : "-"
-name                     : "Samuel MATIA KANGONI"
+name                     : "Samuel KANGONI MATIA"
 description              : ""
 url                      : https://samuelmatia.github.io
 baseurl                  : ""
@@ -17,10 +17,10 @@ repository               : "samuelmatia/samuelmatia.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Samuel MATIA KANGONI"
+  avatar           : "profile_samuel_matia.jpeg"
+  name             : "Samuel KANGONI MATIA"
   pronouns         :  
-  bio              : "Computer Engineering student focused on healthcare AI. I work on on NLP, Graph Neural Networks, differentiable programming for model optimization, and interpretable AI systems. Passionate about bridging advanced ML techniques with real-world medical applications. You can download my full academic CV <a href='/files/CV/Resume_sam_matia.pdf' target='_blank'>here</a>."
+  bio              : "Transitioning toward AI security and computer vision. Interested in machine unlearning, deepfakes, and AI agentic security. You can download my full academic CV <a href='/files/CV/Resume_sam_matia.pdf' target='_blank'>here</a>."
   location         : "Kinshasa, DR Congo"
   employer         : "University of Kinshasa"
   uri              : 
