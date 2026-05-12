@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Samuel Matia Kangoni | AI Researcher"
+title: "Samuel Kangoni Matia | AI Researcher"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm **Samuel Matia Kangoni**, a Computer Engineering graduate from the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence.
+I'm **Samuel Kangoni Matia**, a Computer Engineering graduate from the **University of Kinshasa**, passionate about solving real-world challenges through Artificial Intelligence.
 
 
 ---
@@ -46,7 +46,7 @@ Previously worked on:
   Proposed a causal-graph-oriented evaluation methodology for pharmacovigilance summarization systems. Demonstrated how structural preservation metrics improve safety-critical summarization pipelines in real-world drug surveillance.
   **IEEE AFRICON**, 2025.
 
-- **Samuel Matia Kangoni**, Mahmoud Hamed, Asha Choudhary, Kyandoghere Kyamakya.  
+- **Samuel Matia Kangoni**, Mahmoud Hamed, Vianney Witesyavwirwa Kambale, Asha Choudhary, Kyandoghere Kyamakya.  
   *Large Language Models in Healthcare: Opportunities, Challenges, and Pathways Toward Trustworthy Clinical AI*.  
   Accepted at **AUTSYS-2025** (Springer LNCS).
 
