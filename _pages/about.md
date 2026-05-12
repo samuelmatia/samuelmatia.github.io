@@ -32,8 +32,10 @@ Previously worked on:
 - **Samuel Matia Kangoni**, Obed Tshimanga Tshipata, Pierre Sedi Nzakuna, Vincenzo Paciello, Jean Gilbert Mbula Mboma, Jean Robert Makulo, Kyandoghere Kyamakya.  
   *Enhancing Sentiment-driven Recommender Systems with LLM-Based Feature Engineering: A Case Study in Drug Review Analysis*.  
   **IEEE Access**, 2025.
+  
+  Developed a sentiment-driven drug recommender system leveraging instruction-tuned LLMs for feature engineering. Introduced the **Adaptive Confidence-Weighted Scoring (ACWS)** mechanism for dynamic weighting and robust outlier handling. Conducted extensive evaluation using standard RecSys metrics and **expert clinical validation**, demonstrating improved interpretability and recommendation quality.
   [Paper](https://ieeexplore.ieee.org/document/11083619) • [Code](https://github.com/samuelmatia/llm-sentiment-drug-recsys)  
-  Developed a sentiment-driven drug recommender system leveraging **instruction-tuned LLMs** for feature engineering. Introduced the **Adaptive Confidence-Weighted Scoring (ACWS)** mechanism for dynamic weighting and robust outlier handling. Conducted extensive evaluation using standard RecSys metrics and **expert clinical validation**, demonstrating improved interpretability and recommendation quality.
+  
 
 - Henri Kasongo Shabani, Kasra Mortazavi, Witesyavwirwa Vianney Kambale, Mahmoud Hamed, **Samuel Matia Kangoni**, Kyandoghere Kyamakya.  
   *A Neuro-Symbolic Edge Stack for Fragile Economies – Binary Cellular Neural Networks and Auto-Mined ASP Rules for Robust Econometrics in the Democratic Republic of Congo*.  
@@ -43,6 +45,7 @@ Previously worked on:
 
 - **Samuel Matia Kangoni**, Obed Tshimanga Tshipata, Jean-Gilbert Mbula Mboma, Pierre Sedi Nzakuna, Vincenzo Paciello, Vianney Witesyavwirwa Kambale, Kyandoghere Kyamakya.  
   *Structural Preservation in Efficient Pharmacovigilance Summarization: A Causal Graph-Based Evaluation Framework*.  
+  
   Proposed a causal-graph-oriented evaluation methodology for pharmacovigilance summarization systems. Demonstrated how structural preservation metrics improve safety-critical summarization pipelines in real-world drug surveillance.
   **IEEE AFRICON**, 2025.
 
@@ -62,12 +65,12 @@ Previously worked on:
 ## 🧪 Research Experience
 
 ### Research Mentee – BASIRA Lab (GNNs for Rising Stars)
-**Imperial College London** — Supervisor: Dr. Islem Rekik  
+**Imperial College London** — Supervisor: [Dr. Islem Rekik](https://scholar.google.com/citations?user=tb6CVoAAAAAJ&hl=fr&oi=ao)  
 *Oct 2025 – Present*  
 Selected for a competitive international research mentorship program. Completed with **highest distinction**. Work on GNN architecture design, explainability, and reproducible ML.
 
 ### Researcher – BASTION Lab
-**University of Kinshasa** — Supervisor: Dr. Kyandoghere Kyamakya  
+**University of Kinshasa** — Supervisor: [Dr. Kyandoghere Kyamakya](https://scholar.google.com/citations?user=n_5AgzAAAAAJ&hl=fr)  
 *Sep 2025 – Present*  
 Research on neuro-symbolic AI, Binary Cellular Neural Networks, and Answer Set Programming for econometric modeling and medical imaging.
 
@@ -98,21 +101,6 @@ Research on neuro-symbolic AI, Binary Cellular Neural Networks, and Answer Set P
 - **🥈 2nd Prize** – Orange Summer Challenge 2023 (*Utulivu*: autism screening system)  
 - **Huawei Seeds for the Future 2024** – Top 10 student representing DRC  
 
----
-
-## 🧠 Skills
-
-- **Concepts**: ML, DL, NLP, Recommender Systems, GNNs, Computer Vision, RL  
-- **Frameworks**: PyTorch, TensorFlow, LangChain, HuggingFace, scikit-learn, OpenCV, Streamlit  
-- **Programming**: Python, JavaScript, MATLAB, Git, Docker, Linux  
-- **Cloud**: AWS, GCP  
-
----
-
-## 🌍 Languages
-
-- **French, Lingala, Kikongo** – Native proficiency  
-- **English** – Professional working proficiency  
 
 ---
 
