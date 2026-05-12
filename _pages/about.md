@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Samuel Matia Kangoni | AI Researcher & Engineer"
+title: "Samuel Matia Kangoni | AI Researcher"
 author_profile: true
 redirect_from:
   - /about/
